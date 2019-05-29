@@ -1,1 +1,1 @@
-# proxy-calendar-component
+# proxy-component-calendar
